@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
+
+/* Standard spacing for all sections */
+.section {
+  padding-top: 4rem;  /* Tailwind equivalent of py-16 */
+  padding-bottom: 4rem;
+}
+
