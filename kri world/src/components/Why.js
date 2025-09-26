@@ -32,7 +32,7 @@ export default function WhyChooseKriworld() {
         <img
           src="https://kriworld.com/assets/img/fresh-images/img-4.png" // Replace with your image path
           alt="Kritika"
-          className="rounded-2xl shadow-lg object-cover w-[90%] md:w-[700px] h-[1000px]"
+          className="rounded-2xl shadow-lg object-cover w-[90%] md:w-[700px] md:h-[1000px]"
         />
       </div>
 
@@ -61,4 +61,5 @@ export default function WhyChooseKriworld() {
     </section>
   );
 }
+
 
